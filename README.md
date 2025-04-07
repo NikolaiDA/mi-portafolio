@@ -5,7 +5,7 @@
 
 ## Sobre Mí
 
-Soy NIKOLAI DAVALOS, un Estudiante de ingenieria de sistemas e informatica apasionado por la tecnologia.  Me encanta crear app, paginas, reparar equipos de computo y estoy siempre buscando nuevos desafíos.  Tengo experiencia en java,c++,etc y estoy constantemente aprendiendo nuevas habilidades.
+Soy NIKOLAI DAVALOS, un Estudiante de Ingenieria de Sistemas e Informática apasionado por la tecnología.  Me encanta crear app, páginas, reparar equipos de computo y siempre buscando nuevos desafíos. Tengo experiencia con los softwares: Java, C++, etc. Actualmente me encuentro en aprendizaje de nuevas habilidades.
 
 
 ## Habilidades
